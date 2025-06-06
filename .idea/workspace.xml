@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057119e4-bff9-4b6e-8632-309f724e8a9b" name="Changes" comment="init camera &amp; menu">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/face_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/face_data.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faces/face_1.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="057119e4-bff9-4b6e-8632-309f724e8a9b" name="Changes" comment="fff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749213162228</updated>
-      <workItem from="1749213163268" duration="4133000" />
+      <workItem from="1749213163268" duration="4420000" />
     </task>
     <task id="LOCAL-00001" summary="init camera &amp; menu">
       <option name="closed" value="true" />
@@ -85,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749215993305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial face detection implementation">
+      <option name="closed" value="true" />
+      <created>1749217707631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749217707631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fff">
+      <option name="closed" value="true" />
+      <created>1749217955999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749217955999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +110,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init camera &amp; menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="init camera &amp; menu" />
+    <MESSAGE value="Initial face detection implementation" />
+    <MESSAGE value="fff" />
+    <option name="LAST_COMMIT_MESSAGE" value="fff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
